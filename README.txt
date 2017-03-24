@@ -8,8 +8,7 @@ Accepted for Publication in IEEE Transactions on Power Systems, July 2016.
 
 ******************************** 
 
-In what follows, the instruction for 
-regenerating all the figures in the above paper is explained. We assume that Matlab is already installed on your machine and you have access to a multi-core Linux server. 
+In what follows, the instruction for regenerating all the figures in the above paper is explained. We assume that Matlab is already installed on your machine and you have access to a multi-core Linux server. 
 
 
 
