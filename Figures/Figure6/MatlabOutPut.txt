@@ -1,0 +1,280 @@
+pid 39762's current affinity list: 0-31
+pid 39762's new affinity list: 0
+pid 39863's current affinity list: 0-31
+pid 39863's new affinity list: 1
+pid 39977's current affinity list: 0-31
+pid 39977's new affinity list: 2
+pid 40128's current affinity list: 0-31
+pid 40128's new affinity list: 3
+pid 40252's current affinity list: 0-31
+pid 40252's new affinity list: 4
+pid 40383's current affinity list: 0-31
+pid 40383's new affinity list: 5
+pid 40500's current affinity list: 0-31
+pid 40500's new affinity list: 6
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 40648's current affinity list: 0-31
+pid 40648's new affinity list: 7
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 40764's current affinity list: 0-31
+pid 40764's new affinity list: 8
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+pid 40891's current affinity list: 0-31
+pid 40891's new affinity list: 9
+ 
+ 
+ 
+ 
+ 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+ 
+ 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+For product information, visit www.mathworks.com.
+ 
+ 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 41018's current affinity list: 0-31
+pid 41018's new affinity list: 10
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 41159's current affinity list: 0-31
+pid 41159's new affinity list: 11
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> >> >> >> 
+IEEE_System =
+
+    40
+
+>> >> >> >> >> >> >> 
+IEEE_System =
+
+    50
+
+>> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> >> >> 
+IEEE_System =
+
+    50
+
+>> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> 
+IEEE_System =
+
+    40
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    60
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    60
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> 
+IEEE_System =
+
+    70
+
+>> >> >>  
+>> >> >> >> >> >> >> To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> >> >> >> >> >>  
+>> To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> 
+IEEE_System =
+
+    70
+
+>> >> >> >> >> >> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    80
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    80
+
+>> >> >> >> >> >> >> >> >> >> [Warning: Directory already exists.] 
+[> In Result_Saver at 16
+  In Main at 65] 
+[Warning: Directory already exists.] 
+[> In Result_Saver at 16
+  In Main at 65] 
+[Warning: Directory already exists.] 
+[> In Result_Saver at 16
+  In Main at 65] 
+[Warning: Directory already exists.] 
+[> In Result_Saver at 16
+  In Main at 65] 
+[Warning: Directory already exists.] 
+[> In Result_Saver at 16
+  In Main at 52] 
+[Warning: Directory already exists.] 
+[> In Result_Saver at 16
+  In Main at 52] 
+[Warning: Directory already exists.] 
+[> In Result_Saver at 16
+  In Main at 52] 
+IEEE 30 Bus System is Passed to YALMIP
+IEEE 40 Bus System is Passed to YALMIP
+>> IEEE 50 Bus System is Passed to YALMIP
+IEEE 70 Bus System is Passed to YALMIP
+IEEE 60 Bus System is Passed to YALMIP
+IEEE 80 Bus System is Passed to YALMIP
+>> >> >> >> >> >> >> >> 

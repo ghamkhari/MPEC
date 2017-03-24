@@ -1,0 +1,8 @@
+Showed_Position_Phi_Resiptory=ShowPosition(Phi_Resiptory);
+Showed_Position_Psi_Resiptory=ShowPosition(Psi_Resiptory);
+Showed_Position_Lambda_Resiptory=ShowPosition(Lambda_Resiptory);
+Showed_Position_Theta_Resiptory=ShowPosition(Theta_Resiptory);
+Showed_Position_a_S=ShowPosition(a_S);
+Showed_Position_P_G_Resiptory=ShowPosition(P_G_Resiptory);
+Showed_Position_Sigma_Resiptory=ShowPosition(Sigma_Resiptory);
+Showed_Position_Zeta_Resiptory=ShowPosition(Zeta_Resiptory);

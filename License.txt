@@ -1,0 +1,6 @@
+All rights are reserved. 
+
+If you use this set of codes in your research, please cite the following paper: 
+
+
+M. Ghamkhari, A. S. Mobarakeh, H. Mohsenian-Rad, “Strategic Bidding forProducers in Nodal Electricity Markets: A Convex Relaxation Approach,”Accepted for Publication in IEEE Transactions on Power Systems, July 2016.

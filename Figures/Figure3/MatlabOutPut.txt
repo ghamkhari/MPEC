@@ -1,0 +1,769 @@
+pid 24651's current affinity list: 0-31
+pid 24651's new affinity list: 20
+pid 24756's current affinity list: 0-31
+pid 24756's new affinity list: 21
+pid 24869's current affinity list: 0-31
+pid 24869's new affinity list: 23
+pid 25009's current affinity list: 0-31
+pid 25009's new affinity list: 24
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 25136's current affinity list: 0-31
+pid 25136's new affinity list: 25
+ 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 25261's current affinity list: 0-31
+pid 25261's new affinity list: 26
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+pid 25401's current affinity list: 0-31
+pid 25401's new affinity list: 27
+
+                            < >> >> L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >>  
+>> >>  
+>> >> To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+ 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 25825's current affinity list: 0-31
+pid 25825's new affinity list: 15
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 26153's current affinity list: 0-31
+pid 26153's new affinity list: 21
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 26412's current affinity list: 0-31
+pid 26412's new affinity list: 24
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 26657's current affinity list: 0-31
+pid 26657's new affinity list: 26
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 26949's current affinity list: 0-31
+pid 26949's new affinity list: 15
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 27588's current affinity list: 0-31
+pid 27588's new affinity list: 20
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 27808's current affinity list: 0-31
+pid 27808's new affinity list: 24
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 28103's current affinity list: 0-31
+pid 28103's new affinity list: 15
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 28397's current affinity list: 0-31
+pid 28397's new affinity list: 22
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 28642's current affinity list: 0-31
+pid 28642's new affinity list: 14
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 29105's current affinity list: 0-31
+pid 29105's new affinity list: 23
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 29433's current affinity list: 0-31
+pid 29433's new affinity list: 28
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 29920's current affinity list: 0-31
+pid 29920's new affinity list: 12
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 30300's current affinity list: 0-31
+pid 30300's new affinity list: 19
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+pid 30442's current affinity list: 0-31
+pid 30442's new affinity list: 24
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >>  
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 31265's current affinity list: 0-31
+pid 31265's new affinity list: 22
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 31536's current affinity list: 0-31
+pid 31536's new affinity list: 25
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 32269's current affinity list: 0-31
+pid 32269's new affinity list: 13
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 33306's current affinity list: 0-31
+pid 33306's new affinity list: 11
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 33715's current affinity list: 0-31
+pid 33715's new affinity list: 7
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 34126's current affinity list: 0-31
+pid 34126's new affinity list: 21
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 34358's current affinity list: 0-31
+pid 34358's new affinity list: 10
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 34580's current affinity list: 0-31
+pid 34580's new affinity list: 14
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 34976's current affinity list: 0-31
+pid 34976's new affinity list: 6
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 35194's current affinity list: 0-31
+pid 35194's new affinity list: 27
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 36008's current affinity list: 0-31
+pid 36008's new affinity list: 15
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 36516's current affinity list: 0-31
+pid 36516's new affinity list: 5
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 36984's current affinity list: 0-31
+pid 36984's new affinity list: 17
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 37412's current affinity list: 0-31
+pid 37412's new affinity list: 20
+pid 37519's current affinity list: 0-31
+pid 37519's new affinity list: 23
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 38010's current affinity list: 0-31
+pid 38010's new affinity list: 4
+pid 38146's current affinity list: 0-31
+pid 38146's new affinity list: 8
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 38653's current affinity list: 0-31
+pid 38653's new affinity list: 2
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 39212's current affinity list: 0-31
+pid 39212's new affinity list: 0
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 40145's current affinity list: 0-31
+pid 40145's new affinity list: 3
+pid 40259's current affinity list: 0-31
+pid 40259's new affinity list: 16
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 40692's current affinity list: 0-31
+pid 40692's new affinity list: 18
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 42393's current affinity list: 0-31
+pid 42393's new affinity list: 13
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 43189's current affinity list: 0-31
+pid 43189's new affinity list: 28
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 43422's current affinity list: 0-31
+pid 43422's new affinity list: 22
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> pid 44323's current affinity list: 0-31
+pid 44323's new affinity list: 24
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 

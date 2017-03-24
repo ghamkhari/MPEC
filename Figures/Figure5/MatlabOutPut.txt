@@ -1,0 +1,521 @@
+pid 31428's current affinity list: 0-31
+pid 31428's new affinity list: 0
+pid 31537's current affinity list: 0-31
+pid 31537's new affinity list: 1
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 31664's current affinity list: 0-31
+pid 31664's new affinity list: 2
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 31791's current affinity list: 0-31
+pid 31791's new affinity list: 3
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 31928's current affinity list: 0-31
+pid 31928's new affinity list: 4
+>> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >>  
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 32059's current affinity list: 0-31
+pid 32059's new affinity list: 5
+>> >> >> >> >> >> >> >>  
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+pid 32194's current affinity list: 0-31
+pid 32194's new affinity list: 8
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> >> >> pid 32328's current affinity list: 0-31
+pid 32328's new affinity list: 9
+>> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> >> >> >> >>  
+>> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 32468's current affinity list: 0-31
+pid 32468's new affinity list: 10
+>> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >>  
+>> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+pid 32627's current affinity list: 0-31
+pid 32627's new affinity list: 11
+ 
+>> >> >> >> >> To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+>>  
+>> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+pid 32798's current affinity list: 0-31
+pid 32798's new affinity list: 12
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>>  
+>> >> >> >> >> To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> pid 32944's current affinity list: 0-31
+pid 32944's new affinity list: 13
+>> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >>  
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 33139's current affinity list: 0-31
+pid 33139's new affinity list: 14
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> >> pid 33323's current affinity list: 0-31
+pid 33323's new affinity list: 15
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >>  
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 33482's current affinity list: 0-31
+pid 33482's new affinity list: 16
+>> >> >> >> >> >>  
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> pid 33651's current affinity list: 0-31
+pid 33651's new affinity list: 17
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> pid 33836's current affinity list: 0-31
+pid 33836's new affinity list: 18
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> pid 33995's current affinity list: 0-31
+pid 33995's new affinity list: 19
+>> >> >> >> >> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >>  
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+pid 34191's current affinity list: 0-31
+pid 34191's new affinity list: 20
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+pid 34365's current affinity list: 0-31
+pid 34365's new affinity list: 21
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+                            < M A T L A B (R) >
+                  Copyright 1984-2014 The MathWorks, Inc.
+                   R2014b (8.4.0.150421) 64-bit (glnxa64)
+                             September 15, 2014
+
+>> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>>  
+>> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+ 
+
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+>> >> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> >> >> >> >> >> >> >> 
+	This is a Classroom License for instructional use only.
+	Research and commercial use is prohibited.
+
+>> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> >> >> >> >> >> 
+IEEE_System =
+
+    30
+
+>> >> >> >> >> 
+Conjestion_Number =
+
+     1
+
+>> >> >> >> >> >> Mosek is now being calledMosek is now being calledMosek is now being calledMosek is now being called>> >> >> >> >> Mosek is now being calledMosek is now being calledMosek is now being calledMosek is now being calledMosek is now being called>> Mosek is now being called>> >> >> >> >> >> >> >> >> >> >> >> >> 

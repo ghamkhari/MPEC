@@ -1,0 +1,55 @@
+
+
+
+if  exist('Figures', 'dir') == 7
+    cd Figures  
+else
+    mkdir('Figures')
+    cd Figures    
+end
+
+
+
+if exist(['Figure_Results_',num2str(Figure_Number)], 'dir') == 7
+    cd  (['Figure_Results_',num2str(Figure_Number)]) 
+else
+    mkdir(['Figure_Results_',num2str(Figure_Number)])
+    cd   (['Figure_Results_',num2str(Figure_Number)])
+end
+
+
+
+
+if Joint==1
+    
+Result_Point
+
+Optimal_Objective_MILP_Set(Simulation_Index)=Optimal_Objective_MILP;
+Time_Solver_MILP_Set(Simulation_Index)=Time_Solver_MILP;
+
+save  Optimal_Objective_MILP_Set Optimal_Objective_MILP_Set
+save  Time_Solver_MILP_Set Time_Solver_MILP_Set
+
+end
+
+if Joint==0
+    
+load('Optimal_Objective_MILP_Set');
+load('Time_Solver_MILP_Set');
+
+Optimal_Objective_MILP_Set(Simulation_Index,Time_Set)=Optimal_Objective_MILP;
+Time_Solver_MILP_Set(Simulation_Index,Time_Set)=Time_Solver_MILP;
+
+save  Optimal_Objective_MILP_Set Optimal_Objective_MILP_Set
+save  Time_Solver_MILP_Set Time_Solver_MILP_Set
+
+      
+end
+
+
+
+cd ../..
+
+
+
+

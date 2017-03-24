@@ -1,0 +1,10 @@
+{
+	"Optimal_Objective_SDP": 280.2961083,
+	"Criteria": 0.1,
+	"Optimal_Objective_Partial": 287.6184833,
+	"Optimal_Objective_Raw": "_NaN_",
+	"Time_Solver_Partial": 2.188051,
+	"Time_Solver_SDP": 1101.410626,
+	"Time_Yalmip_SDP": "_NaN_",
+	"Time_Total": 1103.598677
+}
