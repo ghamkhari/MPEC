@@ -1,4 +1,4 @@
-The files in this folder are the simulation codes for the below paper:
+The files in this repository are the simulation codes for the below paper:
 
 ********************************
 
@@ -8,9 +8,8 @@ Accepted for Publication in IEEE Transactions on Power Systems, July 2016.
 
 ******************************** 
 
-The files in this foder can be used for regenerating all the figures in [1]. Below, the instruction for 
-regenerating thefigures in [1] is explained. We assume that Matlab is already installed on your machine. 
-We also assume that you have access to a multi-core Linux server. So by "server" we mean your Linux server. 
+In what follows, the instruction for 
+regenerating all the figures in the above paper is explained. We assume that Matlab is already installed on your machine and you have access to a multi-core Linux server. 
 
 
 
@@ -18,7 +17,7 @@ We also assume that you have access to a multi-core Linux server. So by "server"
 
 https://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab--a-toolbox-to-encode-decode-json-files
 
-2- Gurobi,  Mosek and Yalmip should be installed on the server. The path to Gurobi,  Mosek and Yalmip should be added to the top part of the "Main.m" files in the following directories:
+2- Gurobi,  Mosek and Yalmip should be installed on the Linux server. The path to Gurobi,  Mosek and Yalmip should be added to the top part of the "Main.m" files in the following directories:
 
 /Rercovery_October_5_Cleanup
 /October_7_Flage
@@ -30,7 +29,7 @@ https://www.mathworks.com/matlabcentral/fileexchange/33381-jsonlab--a-toolbox-to
 
 Figures/Figure2
 
-4- At top part of "Figure2.sh" file, the number of existing CPUs of server should be assigned to the variable "Maximum_CPU_Server".  
+4- At top part of "Figure2.sh" file, the number of existing CPUs of Linux server should be assigned to the variable "Maximum_CPU_Server".  
 
 5- Then, the following command should be issued on terminal of server 
 
